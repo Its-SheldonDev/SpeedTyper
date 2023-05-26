@@ -13,7 +13,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node src/index.js"
+    "play": "node src/index.js"
   },
   "repository": {
     "type": "git",
