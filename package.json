@@ -1,0 +1,31 @@
+{
+  "name": "speedtyper",
+  "version": "1.0.0",
+  "description": "A simple speed typing game ",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "control-sequence-introducer": "^0.0.2",
+    "chalk": "^5.0.1",
+    "hide-terminal-cursor": "^0.0.1",
+    "keypress": "^0.2.1",
+    "terminal-escape-char": "^0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Its-SheldonDev/SpeedTyper.git"
+  },
+  "keywords": [
+    "SpeedTyping"
+  ],
+  "author": "$heldon_#1705",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Its-SheldonDev/SpeedTyper/issues"
+  },
+  "homepage": "https://github.com/Its-SheldonDev/SpeedTyper#readme"
+}
