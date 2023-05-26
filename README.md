@@ -13,3 +13,5 @@ cd SpeedTyper
 npm install or yarn
 npm play or yarn play
 ```
+
+## Leave a star to this project !
